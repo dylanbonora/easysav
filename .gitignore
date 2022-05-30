@@ -1,0 +1,9 @@
+csv/
+Rapports/
+images/
+Histogrammes/
+OCR/
+*.csv
+*.txt
+*.wav
+
